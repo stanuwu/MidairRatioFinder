@@ -20,6 +20,7 @@ Find 1x1 ratios by entering cannon debug data from the first gametick of travel.
 ## Interpreting the Results:
 A Ratio will look somewhat like this
 > Power: 40      Gametick: 16     Distance: (110.481, 105.549)      Position: (111.481, 106.549)
+
 Power: how much power you need to use
 Gametick: how many gameticks after the data you entered it will be in a 1x1
 Distance: how far is will have moved (x/z, y)
