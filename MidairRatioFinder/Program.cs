@@ -89,7 +89,7 @@ for (int power = min_power; power <= max_power; power++)
         
         if (pos_x > max_x || pos_y > max_y) break;
         double norm_pos = pos_x - Math.Floor(pos_x);
-        if (norm_pos >= 0.48 && norm_pos <= 0.52)
+        if (norm_pos >= 0.49 && norm_pos <= 0.51)
         {
             if (pos_x >= min_x && pos_y >= min_y)
             {
