@@ -1,0 +1,15 @@
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\bin\Debug\net6.0\MidairRatioFinder.exe
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\bin\Debug\net6.0\MidairRatioFinder.deps.json
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\bin\Debug\net6.0\MidairRatioFinder.runtimeconfig.json
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\bin\Debug\net6.0\MidairRatioFinder.dll
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\bin\Debug\net6.0\MidairRatioFinder.pdb
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\MidairRatioFinder.csproj.AssemblyReference.cache
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\MidairRatioFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\MidairRatioFinder.AssemblyInfoInputs.cache
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\MidairRatioFinder.AssemblyInfo.cs
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\MidairRatioFinder.csproj.CoreCompileInputs.cache
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\MidairRatioFinder.dll
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\refint\MidairRatioFinder.dll
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\MidairRatioFinder.pdb
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\MidairRatioFinder.genruntimeconfig.cache
+C:\Users\STan\RiderProjects\MidairRatioFinder\MidairRatioFinder\obj\Debug\net6.0\ref\MidairRatioFinder.dll
