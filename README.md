@@ -13,8 +13,8 @@ Find 1x1 ratios by entering cannon debug data from the first gametick of travel.
 - Min Power: minimum amount of power you want to use
 - Max Power: maximum amount if power you want to use
 - Min Distance: minimum amount of blocks the entity has to travel in the x/z direction
-- Min Height: minimum amount of blocks the entity has to travel in the y direction
 - Max Distance: maximum amount of blocks the entity is allowed to travel in the x/z direction
+- Min Height: minimum amount of blocks the entity has to travel in the y direction
 - Max Height: maximum amount of blocks the entity is allowed to travel in the y direction
 
 ## Interpreting the Results:
