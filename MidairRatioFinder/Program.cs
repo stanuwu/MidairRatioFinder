@@ -58,13 +58,13 @@ Console.Write("Min Distance: ");
 Console.ResetColor();
 int min_x = Convert.ToInt32(Console.ReadLine());
 Console.ForegroundColor = ConsoleColor.Red;
-Console.Write("Min Height: ");
-Console.ResetColor();
-int min_y = Convert.ToInt32(Console.ReadLine());
-Console.ForegroundColor = ConsoleColor.Red;
 Console.Write("Max Distance: ");
 Console.ResetColor();
 int max_x = Convert.ToInt32(Console.ReadLine());
+Console.ForegroundColor = ConsoleColor.Red;
+Console.Write("Min Height: ");
+Console.ResetColor();
+int min_y = Convert.ToInt32(Console.ReadLine());
 Console.ForegroundColor = ConsoleColor.Red;
 Console.Write("Max Height: ");
 Console.ResetColor();
@@ -87,7 +87,7 @@ for (int power = min_power; power <= max_power; power++)
         vel_y *= 0.98;
         vel_x *= 0.98;
         
-        if (pos_x > max_x && pos_y > max_y) break;
+        if (pos_x > max_x || pos_y > max_y) break;
         double norm_pos = pos_x - Math.Floor(pos_x);
         if (norm_pos >= 0.48 && norm_pos <= 0.52)
         {
